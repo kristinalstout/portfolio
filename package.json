@@ -9,12 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "@sanity/image-url": "^1.0.2",
+    "@sanity/vision": "^3.23.4",
     "framer-motion": "^10.16.4",
     "next": "13.5.5",
     "react": "^18",
     "react-dom": "^18",
+    "react-hook-form": "^7.48.2",
+    "react-router": "^6.18.0",
     "react-simple-typewriter": "^5.0.1",
-    "react-social-icons": "^6.4.0"
+    "react-social-icons": "^6.4.0",
+    "sanity": "^3.23.4",
+    "styled-components": "^6.1.6"
   },
   "devDependencies": {
     "@types/node": "^20",
@@ -24,6 +31,7 @@
     "eslint": "^8",
     "eslint-config-next": "13.5.5",
     "postcss": "^8.4.31",
+    "tailwind-scrollbar": "^3.0.5",
     "tailwindcss": "^3.3.5",
     "typescript": "^5"
   }
